@@ -10,21 +10,22 @@ I love building innovative solutions and learning new technologies.
 
 ## Skills
 
-- 📝 **Languages** : Python, JavaScript, C, C++,C#, Java, HTML, CSS, SQL.
+- 📝 **Languages** : Python, JavaScript, C, C++,C#, Java, HTML, CSS, SQL , Golang.
 - 📚 **Frameworks & Libraries** : React Native,.NET Framework, ASP.NET, Bootstrap.
-- 🛠️ **Tools & Platforms** : Docker, Git, Linux, Windows, Visual Studio Code.
+- 🛠️ **Tools & Platforms** : Git, Linux, Windows, Visual Studio Code.
 
 ## Projects
 
 Check out my latest project:
 
-### [Spotify Clone Application](link to project repository) 🎵
-[Brief description of the project]
+### 🎵 [Spotify Clone Application](https://github.com/SapirKro/Spotify-Clone) 
+A client-side Spotify clone, aims to replicate the core functionalities of Spotify.  
+The project allows users to stream their recently played songs, playlists, and liked songs.
 
 More coming soon!
 
 ## Connect with Me
 
-- 🔗 [LinkedIn](your LinkedIn profile link)
-- ✉️ How to reach me: SapirKroitoro@gmail.com
+- 🔗 LinkedIn : [My Profile](https://www.linkedin.com/in/sapir-kroitoro/)
+- ✉️ Mail : SapirKroitoro@gmail.com
 
